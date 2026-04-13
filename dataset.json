@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Louisiana, US",
+  "export_job_id": "f166b888-0de5-4c7c-8218-e3046d398c48",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 675338,
+  "location_name": "Louisiana",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-louisiana-us-sample-675338",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/675338/beamstation_675338_restaurants-us-la_SAMPLE_DIST.csv",
+  "sample_pct": 9.84,
+  "sample_records": 6,
+  "sample_sha256": "3d139e82fa3ab7c838dd19851a43c2e3398d7e06f1aaf1bb7a08c26c88783745",
+  "sample_size_bytes": 36007,
+  "total_records": 61,
+  "updated_at": "2026-04-08T05:13:45.977501+00:00"
+}
