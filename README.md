@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Louisiana, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `675338` |
 | Location | Louisiana |
 | Category | Restaurants |
-| Full dataset size | 61 records |
-| Free sample size | 6 records (9.84%) |
-| Last export | 2026-04-08T05:13:45.977501+00:00 |
+| Full dataset size | 72 records |
+| Free sample size | 7 records (9.72%) |
+| Last export | 2026-04-15T09:29:21.883877+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-louisiana-us-sample-675338/releases/download/sample-latest/beamstation_675338_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
