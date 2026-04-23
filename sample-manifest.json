@@ -1,12 +1,12 @@
 {
-  "export_job_id": "087491fa-a2bf-49c6-b95e-db7bd088732e",
+  "export_job_id": "b395c5e1-a960-474a-bb44-96a4b1c27678",
   "id_short": 675338,
-  "published_at": "2026-04-19T07:36:30Z",
+  "published_at": "2026-04-23T07:03:33Z",
   "repo_name": "restaurant-social-ghosts-in-louisiana-us-sample-675338",
   "sample_asset_name": "beamstation_675338_restaurants-us-la_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/675338/beamstation_675338_restaurants-us-la_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "34b178350730d8c6899781505b8b285ffcd4a457476e0b4f5bc74b2768d2f531",
-  "sample_size_bytes": 39774,
-  "total_records": 72
+  "sample_records": 1,
+  "sample_sha256": "1be415a672cf610fba5d678cd272b41661ebd3c5cf8c523932bddea22900e688",
+  "sample_size_bytes": 19971,
+  "total_records": 1
 }
